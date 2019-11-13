@@ -157,7 +157,6 @@ https://login.ezproxy.socccd.edu/login
 https://ezproxy.okcu.edu/login
 https://login.ezproxy.lib.lehigh.edu/login
 https://ezproxy.csusm.edu/login?url=$@
-https://ezproxy.apus.edu/login?url=$@
 https://ezproxy.dom.edu/login?url=$@
 https://ezproxy.lib.uwf.edu/login
 https://journalism.ezproxy.cuny.edu:2443/login?url=$@
